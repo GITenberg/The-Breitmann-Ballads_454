@@ -1,0 +1,31 @@
+_repo: The-Breitmann-Ballads_454
+alternative_title: Hans Breitman's ballads
+creator:
+  author:
+    agent_name: Leland, Charles Godfrey
+    aliases:
+    - Breitman, Hans
+    - Breitmann, Hans
+    - Leland, Charles G.
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '243'
+    url: http://www.gutenberg.org/2009/agents/243
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
+description: ''
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry, American'
+- !lcsh 'German Americans -- Poetry'
+- !lcsh 'Wit and humor'
+- !lcsh 'Dialect literature, American'
+- !lcc 'PS'
+title: The Breitmann Ballads
+url: http://www.gutenberg.org/ebooks/454
