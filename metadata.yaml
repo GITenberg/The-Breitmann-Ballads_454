@@ -1,6 +1,9 @@
 _repo: The-Breitmann-Ballads_454
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Hans Breitman's ballads
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leland, Charles Godfrey
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/243
     wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/454#The-Breitmann-Ballads
 gutenberg_issued: '1996-03-01'
 gutenberg_type: Text
 identifiers:
