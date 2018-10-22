@@ -1,5 +1,5 @@
 _repo: The-Breitmann-Ballads_454
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Hans Breitman's ballads
 covers:
 - cover_type: generated
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Wit and humor'
 - !lcsh 'Dialect literature, American'
 - !lcc 'PS'
+- GITenberg
 title: The Breitmann Ballads
 url: http://www.gutenberg.org/ebooks/454
